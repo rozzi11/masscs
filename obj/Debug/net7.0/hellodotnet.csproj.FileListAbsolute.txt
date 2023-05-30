@@ -1,0 +1,15 @@
+D:\Lessons\csmass\hellodotnet\bin\Debug\net7.0\hellodotnet.exe
+D:\Lessons\csmass\hellodotnet\bin\Debug\net7.0\hellodotnet.deps.json
+D:\Lessons\csmass\hellodotnet\bin\Debug\net7.0\hellodotnet.runtimeconfig.json
+D:\Lessons\csmass\hellodotnet\bin\Debug\net7.0\hellodotnet.dll
+D:\Lessons\csmass\hellodotnet\bin\Debug\net7.0\hellodotnet.pdb
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.csproj.AssemblyReference.cache
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.AssemblyInfoInputs.cache
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.AssemblyInfo.cs
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.csproj.CoreCompileInputs.cache
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.dll
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\refint\hellodotnet.dll
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.pdb
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\hellodotnet.genruntimeconfig.cache
+D:\Lessons\csmass\hellodotnet\obj\Debug\net7.0\ref\hellodotnet.dll
